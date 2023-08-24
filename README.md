@@ -1,2 +1,1 @@
-# Front-end study
-html, css, javascript
+# Front-end TIL
